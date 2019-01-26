@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="restAssuredSuite">
+    <test name="testngTest">
+        <classes>
+            <class name="com.restAssuredProjt.PostMethod"></class>
+            <class name="com.restAssuredProjt.PutMethod"></class>
+            <class name="com.restAssuredProjt.PatchMethod"></class>
+            <class name="com.restAssuredProjt.DeleteMethod"></class>
+            <class name="com.restAssuredProjt.GetMethod"></class>
+        </classes>
+    </test>
+</suite>
