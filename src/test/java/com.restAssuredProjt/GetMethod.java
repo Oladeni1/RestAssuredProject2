@@ -6,6 +6,10 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
+//note: Always start json server before running these tests
+
+// From cmd as administrator run: json-server --watch db.json
+
 
 public class GetMethod {
 
